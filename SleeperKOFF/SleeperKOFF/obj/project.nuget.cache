@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4/YWpUW4PPF7qyzIVCuwSHkl2inMV+xo0TdtY0H7RUc0yglsnbP7z1W1S7PJ/eSwBbV5tMEvUnbiqWao0Vz9xQ==",
+  "dgSpecHash": "3TxZOf7DFdUlYnmZvoEgKTbq1phAQWs5bLjV0XnQMpMintqi0aujtfXr4/DnbS51sWWlsc8Iat8HhC/8E9UlNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\S05089\\Source\\Repos\\SleeperKOFF\\SleeperKOFF\\PlayerSheet.csproj",
+  "projectFilePath": "C:\\Users\\S05089\\Source\\Repos\\Trulosa20\\SleeperKOFF\\SleeperKOFF\\SleeperKOFF\\PlayerSheet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\S05089\\.nuget\\packages\\microsoft.aspnet.webapi\\5.2.9\\microsoft.aspnet.webapi.5.2.9.nupkg.sha512",
     "C:\\Users\\S05089\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\S05089\\Source\\Repos\\SleeperKOFF\\SleeperKOFF\\PlayerSheet.csproj": {}
+    "C:\\Users\\S05089\\Source\\Repos\\Trulosa20\\SleeperKOFF\\SleeperKOFF\\SleeperKOFF\\PlayerSheet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\S05089\\Source\\Repos\\SleeperKOFF\\SleeperKOFF\\PlayerSheet.csproj": {
+    "C:\\Users\\S05089\\Source\\Repos\\Trulosa20\\SleeperKOFF\\SleeperKOFF\\SleeperKOFF\\PlayerSheet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\S05089\\Source\\Repos\\SleeperKOFF\\SleeperKOFF\\PlayerSheet.csproj",
+        "projectUniqueName": "C:\\Users\\S05089\\Source\\Repos\\Trulosa20\\SleeperKOFF\\SleeperKOFF\\SleeperKOFF\\PlayerSheet.csproj",
         "projectName": "PlayerSheet",
-        "projectPath": "C:\\Users\\S05089\\Source\\Repos\\SleeperKOFF\\SleeperKOFF\\PlayerSheet.csproj",
+        "projectPath": "C:\\Users\\S05089\\Source\\Repos\\Trulosa20\\SleeperKOFF\\SleeperKOFF\\SleeperKOFF\\PlayerSheet.csproj",
         "packagesPath": "C:\\Users\\S05089\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\S05089\\Source\\Repos\\SleeperKOFF\\SleeperKOFF\\obj\\",
+        "outputPath": "C:\\Users\\S05089\\Source\\Repos\\Trulosa20\\SleeperKOFF\\SleeperKOFF\\SleeperKOFF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
