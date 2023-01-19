@@ -51,6 +51,10 @@
               "target": "Package",
               "version": "[5.2.9, )"
             },
+            "Microsoft.Office.Interop.Excel": {
+              "target": "Package",
+              "version": "[15.0.4795.1001, )"
+            },
             "System.Collections.NonGeneric": {
               "target": "Package",
               "version": "[4.3.0, )"

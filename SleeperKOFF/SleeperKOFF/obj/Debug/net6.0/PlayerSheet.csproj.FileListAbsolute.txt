@@ -28,6 +28,7 @@ C:\Users\S05089\Source\Repos\Trulosa20\SleeperKOFF\SleeperKOFF\SleeperKOFF\bin\D
 C:\Users\S05089\Source\Repos\Trulosa20\SleeperKOFF\SleeperKOFF\SleeperKOFF\bin\Debug\net6.0\System.Net.Http.Formatting.dll
 C:\Users\S05089\Source\Repos\Trulosa20\SleeperKOFF\SleeperKOFF\SleeperKOFF\bin\Debug\net6.0\System.Web.Http.dll
 C:\Users\S05089\Source\Repos\Trulosa20\SleeperKOFF\SleeperKOFF\SleeperKOFF\bin\Debug\net6.0\System.Web.Http.WebHost.dll
+C:\Users\S05089\Source\Repos\Trulosa20\SleeperKOFF\SleeperKOFF\SleeperKOFF\bin\Debug\net6.0\Microsoft.Office.Interop.Excel.dll
 C:\Users\S05089\Source\Repos\Trulosa20\SleeperKOFF\SleeperKOFF\SleeperKOFF\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\S05089\Source\Repos\Trulosa20\SleeperKOFF\SleeperKOFF\SleeperKOFF\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
 C:\Users\S05089\Source\Repos\Trulosa20\SleeperKOFF\SleeperKOFF\SleeperKOFF\obj\Debug\net6.0\PlayerSheet.GeneratedMSBuildEditorConfig.editorconfig

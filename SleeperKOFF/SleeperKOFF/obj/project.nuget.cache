@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3TxZOf7DFdUlYnmZvoEgKTbq1phAQWs5bLjV0XnQMpMintqi0aujtfXr4/DnbS51sWWlsc8Iat8HhC/8E9UlNg==",
+  "dgSpecHash": "f+c2WUu0nEdXUctEQ+uquL7Z2Fidder/hW3t/kYrGaK9LY0MVXH/44ZhqTiEfLsvbr4o2j3DfcxlTFueia2LMg==",
   "success": true,
   "projectFilePath": "C:\\Users\\S05089\\Source\\Repos\\Trulosa20\\SleeperKOFF\\SleeperKOFF\\SleeperKOFF\\PlayerSheet.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\S05089\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\S05089\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\S05089\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\S05089\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
     "C:\\Users\\S05089\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\S05089\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\S05089\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",

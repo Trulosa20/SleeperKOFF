@@ -34,6 +34,10 @@ namespace PlayerSheet
             managerList = await dataManipulation.RosterManipulation(rosterData, sleeperExtract);
 
             //import player data
+            foreach(UserInfo team in managerList)
+            {
+                excelHelper.ImportPlayerData(team);
+            }
 
             //FINISH
             Console.WriteLine("PlayerSheet import process finished");
